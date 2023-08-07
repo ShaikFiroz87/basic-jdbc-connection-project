@@ -6,3 +6,8 @@ DB_DRIVER : com.mysql.cj.jdbc.Driver
 
 # Books File Path
 booksFilePath : D:\\Learnings\\SpringBoot_MicroServices\\Ashok\\workspace\\basic-jdbc-connection-project\\datasets\\books-dataset.csv
+
+#spring.main.banner-mode: OFF
+#OFF : Turning off banner. It's not gonna print banner
+#Console : Print banner on Console (it is a default mode)
+#LOG Print banner in log file
