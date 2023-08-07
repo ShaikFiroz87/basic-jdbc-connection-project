@@ -1,0 +1,8 @@
+# Data Source Properties
+DB_URL : jdbc:mysql://localhost:3306/sbms33
+DB_UNAME : root
+DB_PWD : Password@1
+DB_DRIVER : com.mysql.cj.jdbc.Driver
+
+# Books File Path
+booksFilePath : D:\\Learnings\\SpringBoot_MicroServices\\Ashok\\workspace\\basic-jdbc-connection-project\\datasets\\books-dataset.csv
